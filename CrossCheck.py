@@ -1,3 +1,5 @@
+# Script by Gian Luca Pinna Angioni 
+
 #!/usr/bin/python
 import sys
 from optparse import OptionParser
